@@ -18,3 +18,14 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+
+.logo {
+       height: auto;
+       width: 200;
+}
+
+article{
+    background-color: blue;
+    border-radius: 200;
+    border-top: 0cap;
+}
