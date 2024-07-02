@@ -1,0 +1,17 @@
+.big-container{
+    background-image: url("./images/Object.png");
+ background-size: cover;
+}
+
+.nav-options{
+    display: flex;
+    flex-direction: column;
+}
+
+.action-button{
+    border-radius: 30px;
+}
+
+.header-image{
+   border: 30px; 
+}
