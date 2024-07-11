@@ -334,6 +334,26 @@ width: 637px;
 
 }
 
+@keyframes scaleAndRotate {
+    0%{
+        transform: scale(1), (rotate(0deg));
+    }
+    50%{
+        transform: scale(1.5), (rotate(180%));
+    }
+    100%{
+        transform: scale(1), (rotate(360%));
+    }
+}
+ 
+
+.img-2:hover{
+    background-color: #FF6565;
+    rotate: 2secs;
+    animation: rotate 5secs linear;
+
+
+}
 
 
 
